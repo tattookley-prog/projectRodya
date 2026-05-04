@@ -1,6 +1,6 @@
 # Random Quote Generator — projectRodya
 
-**Автор:** Татукеле / tattookley-prog
+**Автор:** Галимов Родион Фирдависович
 
 ---
 
